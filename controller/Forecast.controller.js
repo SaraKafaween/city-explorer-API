@@ -11,3 +11,4 @@ const getWeather = async (req, res) => {
     res.json(forecastArr);
 }
 module.exports = getWeather;
+// module.exports = getWeather;
